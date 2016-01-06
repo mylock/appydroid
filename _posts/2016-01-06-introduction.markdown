@@ -3,7 +3,7 @@ layout: post
 title:  "appydroid - The first Open Source online news magazine about Android apps"
 date:   2015-10-11 18:00:00
 highlight: true
-author: Jan-Lukas Else
+author: jlelse
 image: /img/1.jpg
 ---
 What do you like the most on Android? Is it the great design, the great and active community, the amount of well created open source apps?
@@ -67,5 +67,5 @@ appydroid is licensed under the Apache 2.0 license
    limitations under the License.
 ```
 
-Jan-Lukas Else  
+jlelse  
 *Founder of appydroid*
