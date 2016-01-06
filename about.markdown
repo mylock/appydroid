@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ###### The first Open Source online news magazine about Android apps
 
-**Founder:** Jan-Lukas Else
+**Founder:** Jan-Lukas Else  
 **Responsive for this site:** Jan-Lukas Else
 
 **The source code for this website is available on [GitHub](https://github.com/jlelse/appydroid)**
