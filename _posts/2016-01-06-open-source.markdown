@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "appydroid - The thought of Open Source"
-date:   2015-10-11 18:00:00
+date:   2016-01-06 18:00:00
 highlight: false
 author: jlelse
 image: /img/1.jpg

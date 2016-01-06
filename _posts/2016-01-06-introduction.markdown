@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "appydroid - The first Open Source online news magazine about Android apps"
-date:   2015-10-11 18:00:00
+date:   2016-01-06 18:00:00
 highlight: true
 author: jlelse
 image: /img/1.jpg
