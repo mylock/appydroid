@@ -1,0 +1,24 @@
+title: appydroid
+email: janlukas.else@gmail.com
+description: >
+  The first Open Source online news magazine about Android apps
+baseurl: ""
+# url: "https://appydroid.tk"
+url: "http://127.0.0.1:4000"
+
+header_type: default  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
+
+disqus: true
+disqus_shortname: 'appydroidtk'
+
+# Build settings
+permalink: /:title
+markdown: redcarpet
+include: [_pages]
+exclude: [_site]
+sass:
+  style: compressed
+future: true
+timezone: Europe/Berlin
