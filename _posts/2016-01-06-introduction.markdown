@@ -47,7 +47,7 @@ Contributing should be as easy as possible. To enable this appydroid is organize
 
 To learn more about this read the article [Contibute](/contribute).
 
-## License
+#### License
 
 appydroid is licensed under the Apache 2.0 license
 
