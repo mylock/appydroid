@@ -16,7 +16,7 @@ Today I want to present **appydroid**, the first open sourced online news magazi
 * Everyone should be able to contribute to the development of appydroid
 * Everyone should be able to redistribute this site
 
-To learn more about this read the article [Open Source](/open-source).
+To learn more about this read the article [Open Source](https://appydroid.tk/open-source).
 
 ## Contents of appydroid
 
@@ -37,4 +37,4 @@ Contributing should be as easy as possible. To enable this appydroid is organize
 * You should have basic knowledge in managing git repositories, how to fork repositories and howto create pull requests
 * You should know how to write in Markdown
 
-To learn more about this read the article [Contibute](/contribute).
+To learn more about this read the article [Contibute](https://appydroid.tk/contribute).

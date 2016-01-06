@@ -3,8 +3,8 @@ email: janlukas.else@gmail.com
 description: >
   The first Open Source online news magazine about Android apps
 baseurl: ""
-# url: "https://appydroid.tk"
-url: "http://127.0.0.1:4000"
+url: "https://appydroid.tk" # for production
+# url: "http://127.0.0.1:4000" # for local development
 
 header_type: default  # values [ drawer, default ]
 post_type: highlight    # values [ highlight, default ]
